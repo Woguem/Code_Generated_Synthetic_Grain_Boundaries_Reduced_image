@@ -1,7 +1,7 @@
 """
 @author: Dr Yen Fred WOGUEM 
 
-@description: This script generates synthetic images of grain boundaries : 
+@description: This script generates synthetic reduced images of grain boundaries : 
              grain boundaries with and without noise, noise and vaccum in a material structure.
 """
 
